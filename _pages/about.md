@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
+Welcome! This website is currently under construction, thank you for your interrest!
