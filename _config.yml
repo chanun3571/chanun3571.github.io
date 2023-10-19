@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Setthibhak's Academic Website"
+title                    : "Setthibhak's Online Portfolio"
 title_separator          : "-"
 name                     : &name "Setthibhak Suthithanakom"
-description              : &description "Researcher on 3D bioprinting"
+description              : &description "Researcher on 3D Bioprinting and 3D Printing of Soft Matter"
 url                      : https://setthibhak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Setthibhak/setthibhak.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Setthibhak Suthithanakom"
   avatar           : "profile.png"
-  bio              : "Researcher on 3D Bioprinting"
+  bio              : "Researcher on 3D Bioprinting and 3D Printing of Soft Matter"
   location         : "Bangkok, Thailand"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/"

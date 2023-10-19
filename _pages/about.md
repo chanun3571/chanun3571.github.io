@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Setthibhak's Academic Profile"
+title: "Setthibhak's Online Portfolio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
