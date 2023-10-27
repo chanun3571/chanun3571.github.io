@@ -1,0 +1,28 @@
+---
+layout: archive
+title: "Engineering Projects"
+permalink: /projects/
+author_profile: true
+---
+
+<!-- {% include base_path %}
+
+
+{% for post in site.research %}
+  {% include archive-single.html %}
+{% endfor %} -->
+
+{% include base_path %}
+
+This page serves as a comprehensive overview of my significant engineering projects, encompassing a diverse range of experiences, spanning from academic coursework to extracurricular initiatives. Detailed descriptions of each project, along with my individual contributions, can be found within the corresponding content.
+
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.projects reversed %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
+
