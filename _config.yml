@@ -2,18 +2,18 @@
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
+# For technical reasons, this file is NOT reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Setthibhak's Online Portfolio"
+title                    : "Chanun's Online Portfolio"
 title_separator          : "-"
-name                     : &name "Setthibhak Suthithanakom"
-description              : &description "Researcher on 3D Bioprinting and 3D Printing of Soft Matter"
-url                      : https://setthibhak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Chanun Asavasirikulkij"
+description              : &description "personal description"
+url                      : https://chanun3571.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Setthibhak/setthibhak.github.io"
+repository               : "chanun3571/chanun3571.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Setthibhak Suthithanakom"
+  name             : "Chanun Asavasirikulkij"
   avatar           : "profile.png"
-  bio              : "Researcher on 3D Bioprinting and 3D Printing of Soft Matter"
+  bio              : "Your biography for the left-hand sidebar"
   location         : "Bangkok, Thailand"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/"
-  googlescholar    : "https://scholar.google.com/citations?user=QP-CQr0AAAAJ&hl=en&oi=ao"
-  email            : "s.suthithanakom21@alumni.imperial.ac.uk"
-  researchgate     : "https://www.researchgate.net/scientific-contributions/Setthibhak-Suthithanakom-2175090920" # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : https://scholar.google.com/citations?user=c0orRkgAAAAJ&hl=en
+  email            :
+  researchgate     : https://www.researchgate.net/profile/Chanun-Asavasirikulkij
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Setthibhak"
+  github           : "chanun3571"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0009-0009-0882-4606"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -176,15 +176,12 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  research:
-    output: true
-    permalink: /:collection/:path/
-  projects:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -202,8 +199,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false
-      share: false
+      comments: true
+      share: true
       related: true
   # _pages
   - scope:
@@ -219,8 +216,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
-      comments: false
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -228,26 +225,17 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
-      comments: false
-  # _research
+      share: true
+      comments: true
+  # _portfolio
   - scope:
       path: ""
-      type: research
+      type: portfolio
     values:
       layout: single
       author_profile: true
-      share: false
-      comment: false
-  # _projects
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comment: false
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
@@ -255,7 +243,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: false
+      share: true
 
 # Sass/SCSS
 sass:
