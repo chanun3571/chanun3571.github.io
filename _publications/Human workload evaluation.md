@@ -1,17 +1,15 @@
 ---
-title: "HUMAN WORKLOAD EVALUATION OF DRONE SWARM FORMATION CONTROL USING VIRTUAL REALITY INTERFACE "
-#collection: publications
-#permalink: /publication/Flexible-Actuation-with-Intrinsic-Sensing
-excerpt: 'A. Chanun, M. Hanif<br><br>T - Evaluated human workload with several volunteers during interaction with a drone swarm through virtual reality interface.
- - Conducted an experiment involving the use of a joystick controller and a virtual reality controller to manipulate the drones via a head-mounted display, comparing the human’s control capability between controllers.
-date: 2023-10-31
-venue: 'N/A'
-paperurl: 'http://setthibhak.github.io/files/Flexible-Actuation-with-Intrinsic-Sensing-Manuscript.pdf'
-citation: #'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+title: "Paper Title Number 1"
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-
-<sub> This work is currently under review. It is planned to be published in _The International Journal of Advanced Manufacturing Technology_. The early draft of this work can be downloaded below.
-
-[Download paper here](http://setthibhak.github.io/files/Flexible-Actuation-with-Intrinsic-Sensing-Manuscript.pdf)
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
