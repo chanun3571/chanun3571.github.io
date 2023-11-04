@@ -7,11 +7,15 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Work Experiences"
+    url: /work_experiences/
 
-  - title: "Projects"
-    url: /projects/  
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Projects"
+  #   url: /projects/  
+
 
   # - title: "Teaching"
   #   url: /teaching/    
