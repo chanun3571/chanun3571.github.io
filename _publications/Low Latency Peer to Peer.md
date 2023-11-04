@@ -3,10 +3,10 @@ title: "Low Latency Peer to Peer Robot Wireless Communication with Edge Computin
 collection: publications
 permalink: /publication/paper1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-03-13
-venue: 'Journal 1'
+date: 2021-11-6
+venue: 'IEEE 11th International Conference on System Engineering and Technology'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Asavasirikulkij, C., C. Mathong, T. Sinthumongkolchai, R. Chancharoen, and W. Asdomwised. "Low latency peer to peer robot wireless communication with edge computing." In 2021 IEEE 11th International Conference on System Engineering and Technology (ICSET), pp. 100-105. IEEE, 2021.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
