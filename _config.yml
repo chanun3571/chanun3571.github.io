@@ -188,9 +188,9 @@ collections:
   # projects:
   #   output: true
   #   permalink: /:collection/:path/
-  # talks:
-  #   output: true
-  #   permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
   works:
     output: true
     permalink: /:collection/:path/
