@@ -10,3 +10,12 @@ venue: 'International Conference on Emerging Technologies for Communications 202
 paperurl: 'http://chanun3571.github.io/files/A_Study_of_Digital_Twin.pdf'
 citation: 'Asavasirikulkij, C., Mathong, C., Sinthumongkolchai, T., Chancharoen, R. and Asdornwised, W., 2021. A Study of Digital Twin and Its Communication Protocol in Factory Automation Cell. IEICE Proceedings Series, 68(D4-2).'
 ---
+My main contribution to this paper, apart from being the main author, includes:
+ - Establish the conceptual design of the printhead
+ - Layout the detailed design, parts selection, and assembling process
+ - Construct and evaluate the printhead
+ - Experiments design and execution
+
+<sub> This work is currently under review. It is planned to be published in _The International Journal of Advanced Manufacturing Technology_. The early draft of this work can be downloaded below.
+
+[Download PDF](http://chanun3571.github.io/files/A_Study_of_Digital_Twin.pdf)
