@@ -8,14 +8,6 @@ excerpt: '- Created a digital twin to localize, map, and optimize workflow of in
 date: 2021-12-1
 venue: 'International Conference on Emerging Technologies for Communications 2021 (ICETC2021)'
 paperurl: 'http://chanun3571.github.io/files/A_Study_of_Digital_Twin.pdf'
-citation: 'Asavasirikulkij, C., Mathong, C., Sinthumongkolchai, T., Chancharoen, R. and Asdornwised, W., 2021. A Study of Digital Twin and Its Communication Protocol in Factory Automation Cell. IEICE Proceedings Series, 68(D4-2).'
+#citation: 'Asavasirikulkij, C., Mathong, C., Sinthumongkolchai, T., Chancharoen, R. and Asdornwised, W., 2021. A Study of Digital Twin and Its Communication Protocol in Factory Automation Cell. IEICE Proceedings Series, 68(D4-2).'
 ---
-My main contribution to this paper, apart from being the main author, includes:
- - Establish the conceptual design of the printhead
- - Layout the detailed design, parts selection, and assembling process
- - Construct and evaluate the printhead
- - Experiments design and execution
-
-<sub> This work is currently under review. It is planned to be published in _The International Journal of Advanced Manufacturing Technology_. The early draft of this work can be downloaded below.
-
-[Download PDF](http://chanun3571.github.io/files/A_Study_of_Digital_Twin.pdf)
+This page is unavailable right now due to technical issue, sorry for your inconvenience.
