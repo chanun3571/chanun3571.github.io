@@ -1,14 +1,15 @@
 # main links links
 main:
 
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
   
+  - title: "Work Experiences"
+    url: /work_experiences/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Work Experiences"
-    url: /work_experiences/
 
   # - title: "Talks"
   #   url: /talks/    
