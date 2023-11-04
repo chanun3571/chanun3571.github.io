@@ -1,7 +1,7 @@
 ---
 title: "Low Latency Peer to Peer Robot Wireless Communication with Edge Computing"
 collection: publications
-#permalink: /publication/paper1
+permalink: /publication/paper1
 excerpt: '•	Developed a new peer-to-peer wireless platform that enables real-time communication for multiple robot system. 
 •	Utilized the high bandwidth and low latency wireless platform to facilitate seamless interaction between mobile robots and articulated robot for smart factories.'
 date: 2021-11-6
