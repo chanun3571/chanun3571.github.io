@@ -1,6 +1,7 @@
 ---
-title: "TOKYO INSTITUTE OF TECHNOLOGY"
-date: 2022-10-01
+title: "Tokyo Institute of Technology"
+date: 2022-07-01
+date2: 2022-09-01
 excerpt: "-Implemented formation control and control barrier function (CBF) to synchronize drone swarm while interacting with human. <br/> -Developed a virtual reality interface using Unity to receive command execution from human operator’s hand movement and receive feedback visualization through a head-mounted display. <br/> -Conducted individual research project under the supervision of Assoc. Prof. Takeshi Hatanaka."
 collection: research
 ---
