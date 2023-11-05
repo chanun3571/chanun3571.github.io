@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am actively seeking roles in the field of swarm robotics and am open to relocating for either full-time or contract positions. I recently completed my master's degree in Cyber-Physical Systems (CPS) with a specialization in swarm robotics. I am particularly enthusiastic about the potential to enhance efficiency through human-swarm interaction, an area that I believe holds significant promise. I am eager to contribute to the development of systems that facilitate safe and productive interactions between humans and robotic swarms. Beyond academia, I have actively participated in social and volunteer initiatives in collaboration with both local and international universities. These experiences have enriched my perspective and reinforced my appreciation for diverse cultures and the value of respectful interactions with individuals from around the world.
 
 I am a highly motivated researcher driven by my deep passion and profound experience in 3D printing technology of soft matter, especially biomaterial and viscoelastic material. I am extremely determined to pursue a Ph.D. degree and become an impactful researcher in this field.
 
