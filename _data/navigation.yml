@@ -5,14 +5,14 @@ main:
   #   url: /research/
   
   - title: "Work Experiences"
-    url: /work_experience/
+    url: /work_experiences/
 
   - title: "Publications"
     url: /publications/
 
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Activities"
+    url: /activities/    
 
   # - title: "Projects"
   #   url: /projects/  
@@ -24,8 +24,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # title: "CV"
+  # url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
