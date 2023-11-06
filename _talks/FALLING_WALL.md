@@ -8,6 +8,8 @@ excerpt: "• Participated in a winter conference, alongside students from top u
 • Developed a much better understanding of the culturally complex international communities and foster cooperative relationships with young leaders from the United States and Asian countries.<br/>"
 #venue: "International School of Engineering (ISE), Chulalongkorn University"
 date: 2023-08-26
+date2: 2021-05-24
+
 #location: "Bangkok, Thailand"
 ---
 This page is unavailable right now due to technical issue, sorry for your inconvenience.
