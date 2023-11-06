@@ -2,7 +2,7 @@
 title: "Formation Control of Mobile Robot Swarm in Search Operation"
 collection: publications
 permalink: /publication/paper2
-excerpt: '-Created a digital twin to localize, map, and optimize workflow of industrial-grade robotics system.<br/>-Performed real-time system data ingestion for multiple machines to work together on the same up-to-date map, supporting the human operator in scaling the systems effectively.
+excerpt: '-Created a digital twin to localize, map, and optimize workflow of industrial-grade robotics system.<br/>-Performed real-time system data ingestion for multiple machines to work together on the same up-to-date map, supporting the human operator in scaling the systems effectively.<br/> <img src='/images/research_images/thesis1.gif'>
 '
 date: 2023-08-1
 venue: Chulalongkorn University Theses and Dissertations (Chula ETD)
