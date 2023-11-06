@@ -1,5 +1,5 @@
 ---
-title: "HCAP"
+title: "Mechanical Engineering Student Organization"
 collection: talks
 type: "Invited Talk"
 permalink: /talks/2023-11-08
