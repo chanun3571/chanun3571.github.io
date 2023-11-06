@@ -5,7 +5,7 @@ type: "Presenter"
 #permalink: /talks/2023-02-24
 excerpt: "• Participated in a winter conference, alongside students from top universities across Asia, hosted by Harvard students.<br/>
 • Hosted a spring conference, being a cultural ambassador to promote Thailand to Harvard students and delegates from other countries.<br/>
-• Developed a much better understanding of the culturally complex international communities and foster cooperative relationships with young leaders from the United States and Asian countries.<br/> <img src='/images/talks_images/falling1.jpg' width="200" height="300"> <img src='/images/talks_images/falling2.jpg' width="200" height="300"> "
+• Developed a much better understanding of the culturally complex international communities and foster cooperative relationships with young leaders from the United States and Asian countries.<br/> <img src='/images/talks_images/falling1.jpg' width='200' height='300'> <img src='/images/talks_images/falling2.jpg' width='200' height='300'> "
 date: 2023-08-26
 
 #location: "Bangkok, Thailand"
