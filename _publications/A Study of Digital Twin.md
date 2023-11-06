@@ -2,7 +2,7 @@
 title: "A Study of Digital Twin and Its Communication Protocol in Factory Automation Cell"
 collection: publications
 #permalink: /publication/paper2
-excerpt: "-Created a digital twin to localize, map, and optimize workflow of industrial-grade robotics system.<br/>-Performed real-time system data ingestion for multiple machines to work together on the same up-to-date map, supporting the human operator in scaling the systems effectively.<br/><br/> <strong>Link to the conference paper can be found below.....</strong>"
+excerpt: "-Created a digital twin to localize, map, and optimize workflow of industrial-grade robotics system.<br/>-Performed real-time system data ingestion for multiple machines to work together on the same up-to-date map, supporting the human operator in scaling the systems effectively.<br/><br/> <img src='/images/research_images/manipulator.gif'><br/><strong>Link to the conference paper can be found below.....</strong>"
 date: 2021-12-1
 venue: 'International Conference on Emerging Technologies for Communications 2021 (ICETC2021)'
 paperurl: 'http://chanun3571.github.io/files/A_Study_of_Digital_Twin.pdf'
