@@ -7,7 +7,6 @@ excerpt: "• Participated in a winter conference, alongside students from top u
 • Hosted a spring conference, being a cultural ambassador to promote Thailand to Harvard students and delegates from other countries.<br/>
 • Developed a much better understanding of the culturally complex international communities and foster cooperative relationships with young leaders from the United States and Asian countries.<br/> <img src='/images/talks_images/falling1.gif'> <img src='/images/talks_images/falling2.gif'> "
 date: 2023-08-26
-date2: 2021-05-24
 
 #location: "Bangkok, Thailand"
 ---

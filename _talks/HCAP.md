@@ -7,8 +7,7 @@ collection: talks
 #type: "Conference Presentation"
 #permalink: /talks/2019-11-19
 #enue: "9th IEEE International Conference on Cybernetics and Intelligent Systems (CIS) and IEEE Conference on Robotics, Automation and Mechatronics (RAM), 2019"
-#date: 2020-11-01
-#date2: 2021-05-01
+date: 2020-11-01
 #location: "Bangkok, Thailand"
 ---
 This page is unavailable right now due to technical issue, sorry for your inconvenience.
