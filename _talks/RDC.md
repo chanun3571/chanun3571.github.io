@@ -4,8 +4,8 @@ excerpt: "•	Programed a fully automated line-tracking mobile robot using a PID
 •	Designed and built a controllable mobile robot with a gripper for performing pick and place tasks."
 collection: talks
 type: "Competitor"
-permalink: /talks/2023-02-07
-venue: "International School of Engineering (ISE), Chulalongkorn University"
+#permalink: /talks/2023-02-07
+#venue: "International School of Engineering (ISE), Chulalongkorn University"
 #date: 2023-02-07
 location: "Bangkok, Thailand"
 ---
