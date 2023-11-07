@@ -6,7 +6,7 @@ excerpt: "<strong>Innovation Consultant (Internship)</strong><br/><br/> During a
  My main responsibilities are...<br/>
 - Setup and managed IOT devices using industrial standard protocols. <br/>
 - Collected, processed, and visualized database with dashboard and webserver.<br/>
-- Involved in process of implementing IOT devices to real factory, transforming factory from offline to online."
+- Involved in process of implementing IOT devices to real factory, transforming factory from offline to online.<br/><img src='/images/projects_images/mfec1.jpg' width='400' height='400'><br/> <img src='/images/projects_images/mfec2.jpg' width='400' height='400'>"
 collection: research
 ---
 This page is unavailable right now due to technical issue, sorry for your inconvenience.
