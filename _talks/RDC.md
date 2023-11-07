@@ -1,7 +1,7 @@
 ---
 title: "Robot Design Contest 2019"
 excerpt: "•	Programed a fully automated line-tracking mobile robot using a PID controller. <br/>
-•	Designed and built a controllable mobile robot with a gripper for performing pick and place tasks.<br/><br/> <img src='/images/talks_images/rdc1.jpg'><br/> <img src='/images/talks_images/rdc2.jpg'>"
+•	Designed and built a controllable mobile robot with a gripper for performing pick and place tasks.<br/><br/> <img src='/images/talks_images/rdc1.jpg' width='600' height='450'><br/> <img src='/images/talks_images/rdc2.jpg' width='600' height='450'>"
 collection: talks
 type: "Competitor"
 #permalink: /talks/2023-02-07
