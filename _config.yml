@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chanun Asavasirikulkij"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am actively seeking roles in the field of robotics and am open to relocating for either full-time or contract positions. I recently completed my master's degree in Cyber-Physical Systems (CPS) with a specialization in swarm robotics. Beyond academia, I have actively participated in social and volunteer initiatives in collaboration with both local and international universities. These experiences have enriched my perspective and reinforced my appreciation for diverse cultures and the value of respectful interactions with individuals from around the world."
   location         : "Bangkok, Thailand"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=c0orRkgAAAAJ&hl=en
-  email            :
+  email            : 
   researchgate     : https://www.researchgate.net/profile/Chanun-Asavasirikulkij
   uri              :
   bitbucket        :
@@ -96,15 +96,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chanun3571"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           : #files.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : https://www.linkedin.com/in/chanunfin/
+  orcid            : #"http://orcid.org/yourorcidur"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
