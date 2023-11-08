@@ -1,5 +1,5 @@
 ---
-title: "Havard College in Asia Program(HCAP)"
+title: "Havard College in Asia Program 2021 (HCAP2021)"
 excerpt: "• Participated in a winter conference, alongside students from top universities across Asia, hosted by Harvard students.<br/>
 • Hosted a spring conference, being a cultural ambassador to promote Thailand to Harvard students and delegates from other countries.<br/>
 • Developed a much better understanding of the culturally complex international communities and foster cooperative relationships with young leaders from the United States and Asian countries.<br/><br/> <img src='/images/talks_images/hcap3.jpg' width='400' height='300'> <img src='/images/talks_images/hcap1.jpg' width='400' height='300'>"
