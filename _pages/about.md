@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 I am a highly motivated engineer and researcher driven by my deep passion and profound experience in robotics, especially with multiple robot systems. My research span around several perspective consisting with communication protocol, robotics design, digital twin. In order to conduct research, software development and algorithm development. I have extensive experience working with drones, mobile robots, and manipulators (Universal Robot). The [Publications page](/publications) highlights my 4 years of research experience in robotics. Each research comes with a download link toward the end of the published article.
-Aside from research experience, I have several chances to use my research knowledge with real industry. [Work Experiences page](/experiences) I have worked with real industrial projects through university-industry collaborative projects, internship, and exchange programs. 
+
+Aside from research experience, I have several chances to use my research knowledge with real industry. I have worked with real industrial projects through university-industry collaborative projects, internship, and exchange programs. Check the [Work Experiences page](/experiences) for more details.
 
 Aside from research experience, I have participated in several extra-curricular academic and social activities. For example, a world-class research pitching competition, the Falling Wall Lab Thailand, Harvard College in Asia Program (HCAP), robotic design contest (RDC). More details of each activity can be found on the [Activities page](/activities)
 
