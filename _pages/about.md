@@ -16,4 +16,4 @@ Aside from research experience, I have participated in several extra-curricular 
 The exchange research in Tokyo Institute of Technology was supported by Japan Student Services Organization scholarship. Aside from research, I have an opportunity to visit several companies and research institutes. I took a fundamental Japanese language and cultural classes.  I presented in MISW2022. For example, JFE Steel Corporation, JR East Japan R&D Center, TDK Corporation Technical Center, and RIKEN Headquarters. 
 <br/><br/> <img src='/images/projects_images/tokyo1.jpg' width='300' height='300'> <img src='/images/projects_images/tokyo3.jpg' width='300' height='300'> <img src='/images/projects_images/tokyo5.jpg' width='300' height='300'> <img src='/images/projects_images/tokyo6.jpg' width='300' height='300'>"
 
-# My Curriculum vitae (CV) is available for download [here](/files/Setthibhak-CV-Oct2023.pdf).
+# My Curriculum Vitae (CV) is available for download [here](/files/Setthibhak-CV-Oct2023.pdf).
