@@ -15,11 +15,11 @@ The exchange research in Tokyo Institute of Technology was supported by Japan St
 
 I am a highly motivated researcher driven by my deep passion and profound experience in robotics, especially biomaterial and viscoelastic material. 
 
-The [Research page](/research) highlights my 4 years of research experience in 3D bioprinting and soft matter printing technology along with other research experience throughout my undergraduate degree at Chulalongkorn University and my Master's degree at Imperial College London. My remarkable research achievements are shown on this [Publications page](/publications).
+The [Work Experiences page](/research) highlights my 4 years of research experience in 3D bioprinting and soft matter printing technology along with other research experience throughout my undergraduate degree at Chulalongkorn University and my Master's degree at Imperial College London. My remarkable research achievements are shown on this [Publications page](/publications).
 
 <img src='/images/research_images/4_2.gif'>
 
-These [projects](/projects) illustrate my proficiency in mechanical design and rapid prototyping with considerable experience in many types of 3D printing technology. Alongside other relevant skills such as cell culture, electrical circuit design, and programming, I am a fast learner who can work in a highly multidisciplinary research environment with exceptional adaptability.
+These [Activities page](/talks) illustrate my proficiency in mechanical design and rapid prototyping with considerable experience in many types of 3D printing technology. Alongside other relevant skills such as cell culture, electrical circuit design, and programming, I am a fast learner who can work in a highly multidisciplinary research environment with exceptional adaptability.
 
 I am immensely passionate about science and engineering. I consider myself a maker who loves to build engineering gadgets and understand how things work, with a home workshop where I've developed a remote 3D printing system with a built-in fume control hood.
 
