@@ -2,8 +2,7 @@
 title: "MFEC Public Company Limited "
 date: 2020-06-01
 date2: 2020-08-01
-excerpt: "<strong>Innovation Consultant (Internship)</strong><br/><br/> During an internship at MFEC Public Limited Company, one of Thailand’s largest system integrator companies, I got to work on improving a factory’s efficiency, sustainability, and safety. It sparked my interest in cyber-physical systems (CPS) with robotics and made me excited about its potential to drastically transform smart factories. <br/>
- <strong>My main responsibilities are...</strong> <br/>
+excerpt: "<strong>Innovation Consultant (Internship)</strong><br/>
 - Setup and managed IOT devices using industrial standard protocols. <br/>
 - Collected, processed, and visualized database with dashboard and webserver.<br/>
 - Involved in process of implementing IOT devices to real factory, transforming factory from offline to online.<br/><br/><img src='/images/projects_images/mfec3.jpg' width='600'>"
