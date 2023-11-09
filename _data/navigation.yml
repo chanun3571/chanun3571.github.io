@@ -4,8 +4,8 @@ main:
   # - title: "Research"
   #   url: /research/
   
-  - title: "Work Experiences"
-    url: /experiences/
+  - title: "Work Experience"
+    url: /experience/
 
   - title: "Publications"
     url: /publications/
