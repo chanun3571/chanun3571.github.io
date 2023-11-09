@@ -15,6 +15,6 @@ Over the course of my four-year journey in robotics, which includes both researc
 
 Beyond my academic and professional pursuits, I have actively engaged in extracurricular activities that have enriched my overall development. These activities encompass a wide spectrum, such as participation in prestigious research pitching competitions like Falling Wall Lab Thailand, cultural exchange programs like the Harvard College in Asia Program (HCAP), and involvement in robotic competitions like the Robotic Design Contest (RDC). Moreover, I had the privilege of serving as an exchange researcher at the Tokyo Institute of Technology, supported by a scholarship from the Japan Student Services Organization. During my stay, I have visited and gained insights from various esteemed companies and research institutes, including JFE Steel Corporation, JR East Japan R&D Center, TDK Corporation. 
 For a more in-depth look at my extracurricular activities, kindly refer to the dedicated [Activities page](/activities).
-<br/><br/> <img src='/images/about_images/site1.JPG' width='450' height='450'> <img src='/images/projects_images/tokyo5.jpg' width='300' height='300'>
+<br/><br/> <img src='/images/about_images/site1.JPG' width='430' height='430'> <img src='/images/projects_images/tokyo5.jpg' width='300' height='300'>
 
-# My Curriculum Vitae (CV) is available for download [here](/files/Setthibhak-CV-Oct2023.pdf).
+# My Curriculum Vitae (CV) is available for download [here](/files/Chanun_THK_Resume.pdf).
